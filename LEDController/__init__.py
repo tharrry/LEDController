@@ -1,1 +1,1 @@
-from .light import help
+from .light import prettyLight
