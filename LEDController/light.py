@@ -1,7 +1,7 @@
 import time
 from rpi_ws281x import PixelStrip, Color
 import argparse
-import letters
+from . import letters
 
 # LED strip configuration:
 LED_COUNT = 256       # Number of LED pixels.
