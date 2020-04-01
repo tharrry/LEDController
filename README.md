@@ -1,4 +1,5 @@
-Please note that this is far from done and in an early alpha stage.
+Please note that this is far from done and in an early alha stage, but stable.
+Note that this module needs super user rights to run. Use at your own risk.
 
 
 ![Logo](https://raw.githubusercontent.com/tharrry/LEDController/master/LEDController_logo.png)
@@ -32,6 +33,7 @@ and use it with the
 function.
 
 This will scroll the `someString` string across the matrix right to left. The text will have the color specified in the list.
+
 
 #### Argument 1, someString
 Type: `String`  
