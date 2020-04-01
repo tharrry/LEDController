@@ -1,5 +1,5 @@
 Please note that this is far from done and in an early alha stage, but stable.
-Note that this module needs super user rights to run. Use at your own risk.
+Also note that this module needs super user rights to run. Use at your own risk.
 
 
 ![Logo](https://raw.githubusercontent.com/tharrry/LEDController/master/LEDController_logo.png)
