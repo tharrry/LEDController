@@ -11,7 +11,7 @@ def readme():
 
 setup(
     name="LEDController",
-    version="0.0.1",
+    version="0.0.2",
     description="Wrapper for rpi_ws281x including functionality to use an LED matrix",
     long_description=readme(),
     long_description_content_type="text/markdown",
