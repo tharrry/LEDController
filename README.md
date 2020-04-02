@@ -1,4 +1,4 @@
-Please note that this is far from done and in an early alha stage, but stable.
+Please note that this is far from done and in an early alpha stage, but stable.
 Also note that this module needs super user rights to run. Use at your own risk.
 
 
@@ -51,9 +51,6 @@ This list represents the color in which the text is to be displayed. It should h
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
 
 - Project homepage:  https://github.com/tharrry/LEDController.git
 - Repository:  https://github.com/tharrry/LEDController.git
