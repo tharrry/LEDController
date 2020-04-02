@@ -52,7 +52,7 @@ This list represents the color in which the text is to be displayed. It should h
 ## Links
 
 
-- Project homepage:  https://github.com/tharrry/LEDController.git
+- Project homepage:  https://github.com/tharrry/LEDController
 - Repository:  https://github.com/tharrry/LEDController.git
 - Related projects:
   - I originally created the light and scroll functions after following this tutorial:
