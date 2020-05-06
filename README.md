@@ -29,7 +29,7 @@ Replace the `X` in `pythonX` with the desired python version. This package shoul
 Import this module into Your project with
 ```from LEDController import prettyLight```
 and use it with the
-```prettyLight().light('someStrin',[r,g,b])```
+```prettyLight().light('someString',[r,g,b])```
 function.
 
 This will scroll the `someString` string across the matrix right to left. The text will have the color specified in the list.
